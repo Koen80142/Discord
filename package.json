@@ -1,0 +1,28 @@
+{
+  "name": "discordius",
+  "version": "0.0.1",
+  "description": "The one and only Discord bot in the making",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koen80142/Discord.git"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koen80142/Discord/issues"
+  },
+  "homepage": "https://github.com/Koen80142/Discord#readme",
+  "dependencies": {
+    "bufferutil": "^3.0.3",
+    "discord.js": "^11.4.2",
+    "git": "^0.1.5",
+    "node-gyp": "^3.8.0",
+    "npm-git-install": "^0.3.0",
+    "opusscript": "0.0.6",
+    "rebuild": "^0.1.2"
+  }
+}
